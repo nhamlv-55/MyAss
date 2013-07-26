@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="edit_message">Enter the word</string>
     <string name="button_find">Find</string>
+    <string name="title_activity_display_message">My Message</string>
 
 </resources>
